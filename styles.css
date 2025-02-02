@@ -1,4 +1,6 @@
 
+
+
 .main-div{
   display: flex;
   align-items: center;
@@ -100,7 +102,7 @@ font-size: 40px;
 @media (min-width: 601px) and (max-width: 999px) {
   .grid-main-div {
     grid-template-columns: 1fr 1fr;
-    background-color: red; /* TEMPORARY TEST */
+   
   }
 }
 
